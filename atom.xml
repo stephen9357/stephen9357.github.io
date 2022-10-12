@@ -6,7 +6,7 @@
   <link href="http://stephen9357.github.io/atom.xml" rel="self"/>
   
   <link href="http://stephen9357.github.io/"/>
-  <updated>2022-08-21T15:00:59.255Z</updated>
+  <updated>2022-10-12T16:23:44.019Z</updated>
   <id>http://stephen9357.github.io/</id>
   
   <author>
@@ -21,16 +21,10 @@
     <link href="http://stephen9357.github.io/2022/08/21/hello-world/"/>
     <id>http://stephen9357.github.io/2022/08/21/hello-world/</id>
     <published>2022-08-21T15:00:59.255Z</published>
-    <updated>2022-08-21T15:00:59.255Z</updated>
+    <updated>2022-10-12T16:23:44.019Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
     
     
     
